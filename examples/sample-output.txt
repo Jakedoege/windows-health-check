@@ -1,0 +1,14 @@
+Illustrative output only; these measurements are not from a real machine.
+
+Windows Health Check | Warning
+OK: 7  Warning: 1  Critical: 0  Unknown: 0  Skipped: 2
+[OK] Memory / Physical memory: 42.0% in use
+[OK] System / Uptime: 3.2 days since boot
+[WARNING] Disk / C:: 18.5% free (92.5 GiB)
+[OK] Services / EventLog: Running
+[OK] Services / Winmgmt: Running
+[OK] Services / LanmanWorkstation: Running
+[OK] System / Reboot indicators: No common reboot indicators found; this is not an exhaustive check.
+[OK] Events / Critical System events: 0 critical event(s) in the last 24 hours; historical events do not prove a current outage.
+[SKIPPED] Network / DNS: Network probes disabled.
+[SKIPPED] Network / TCP: Network probes disabled.
