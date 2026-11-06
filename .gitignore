@@ -1,0 +1,6 @@
+# Reports can include details of the machine on which they were generated.
+health*.json
+reports/
+*.log
+.DS_Store
+Thumbs.db
